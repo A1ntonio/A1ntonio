@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Anteneh Esayas
 - 👀 I’m interested in a web design and mobile app development.
 - 💞️ I’m looking to collaborate on your company.
+- Please visit my portofolio website a1ntonio.github.io for more previous works.
